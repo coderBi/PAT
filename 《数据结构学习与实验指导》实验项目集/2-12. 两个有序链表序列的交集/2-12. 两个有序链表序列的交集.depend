@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430143073 source:d:\codeblocks\patest\《数据结构学习与实验指导》实验项目集\2-12. 两个有序链表序列的交集\main.c
+	<stdio.h>
+	<stdlib.h>
+

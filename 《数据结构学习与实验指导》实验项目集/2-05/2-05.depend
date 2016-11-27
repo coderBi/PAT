@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430115569 source:d:\codeblocks\patest\《数据结构学习与实验指导》实验项目集\2-05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

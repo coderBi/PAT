@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431085239 source:d:\codeblocks\patest\pat (advanced level) practise\1010. radix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

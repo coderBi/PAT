@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430227874 source:d:\codeblocks\patest\《数据结构学习与实验指导》实验项目集\3-04. 一元多项式的乘法与加法运算\main.c
+	<stdio.h>
+	<stdlib.h>
+

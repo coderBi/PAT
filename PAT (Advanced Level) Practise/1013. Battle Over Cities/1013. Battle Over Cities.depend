@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432113574 source:d:\codeblocks\patest\pat (advanced level) practise\1013. battle over cities\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+

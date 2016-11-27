@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430121651 source:d:\codeblocks\patest\《数据结构学习与实验指导》实验项目集\2-07. 素因子分解\main.c
+	<stdio.h>
+	<stdlib.h>
+

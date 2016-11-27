@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430905568 source:d:\codeblocks\patest\pat (basic level) practise （中文）\1003. 我要通过！\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

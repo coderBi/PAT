@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430976468 source:d:\codeblocks\patest\mooc-陈越、何钦铭-数据结构基础习题集\00-自测3. 数组元素循环右移问题\main.c
+	<stdio.h>
+	<stdlib.h>
+

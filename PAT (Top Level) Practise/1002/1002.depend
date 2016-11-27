@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425751631 source:d:\codeblocks\patest\pat (top level) practise\1002\main.c
+	<stdio.h>
+	<stdlib.h>
+

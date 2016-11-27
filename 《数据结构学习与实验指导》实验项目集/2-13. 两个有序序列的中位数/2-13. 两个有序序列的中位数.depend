@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430145517 source:d:\codeblocks\patest\《数据结构学习与实验指导》实验项目集\2-13. 两个有序序列的中位数\main.c
+	<stdio.h>
+	<stdlib.h>
+

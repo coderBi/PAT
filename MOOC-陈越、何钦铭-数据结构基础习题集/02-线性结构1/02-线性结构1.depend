@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426085032 source:d:\codeblocks\patest\mooc-陈越、何钦铭-数据结构基础习题集\02-线性结构1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
