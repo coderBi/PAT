@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480609781 source:d:\资料与记录（新装硬盘）\code\codeblocks\patest\《数据结构学习与实验指导》实验项目集\2-10. 海盗分赃\main.c
+	<stdio.h>
+	<stdlib.h>
+
